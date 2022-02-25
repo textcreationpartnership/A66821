@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enquiry into the causes of diseases in general and the disturbances of the humors in man's body wherein the nature of the blood, of the air and of a pestiliential constitution are briefly considered : together with some observations shewing wherein the venom of vipers, particularly that of the English adder does consist / by Stanford Wolsterstan.</title>
+            <author>Wolsterstan, Stanford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66821</idno>
+            <idno type="STC">Wing W3251</idno>
+            <idno type="STC">ESTC R25191</idno>
+            <idno type="EEBO-CITATION">08792432</idno>
+            <idno type="OCLC">ocm 08792432</idno>
+            <idno type="VID">41839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1272:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enquiry into the causes of diseases in general and the disturbances of the humors in man's body wherein the nature of the blood, of the air and of a pestiliential constitution are briefly considered : together with some observations shewing wherein the venom of vipers, particularly that of the English adder does consist / by Stanford Wolsterstan.</title>
+                  <author>Wolsterstan, Stanford.</author>
+               </titleStmt>
+               <extent>[11], 86, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Basset,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Diseases --  Causes and theories of causation --  Early works to 1800.</term>
+               <term>Poisonous snakes --  Venom --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41839:1"/>
+            <pb facs="tcp:41839:1" rendition="simple:additions"/>
+            <p>AN ENQUIRY INTO THE Cauſes of Diſeaſes IN GENERAL, AND THE Diſturbances of the Humors IN MAN's BODY: Wherein the Nature of the Blood, of the Air, and of a Peſtilential Conſtitution, are briefly conſidered. Together with ſome Obſervations, ſhewing wherein the Venom of Vipers, particularly that of the <hi>Engliſh</hi> ADDER, does conſiſt. By <hi>Stanford Wolferſtan,</hi> M. A.</p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>Hippocrates lib. de Flatibus.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Baſſet,</hi> at the <hi>George</hi> in <hi>Fleet-ſtreet,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41839:2" rendition="simple:additions"/>
+            <pb facs="tcp:41839:2"/>
+            <head>To the Right Honourable FRANCIS, L<hi rend="sup">d.</hi> 
+               <hi>Carrington,</hi> Baron of <hi>Wotton,</hi> Viſ<g ref="char:EOLhyphen"/>count <hi>Berrisfore,</hi> in the KINGDOM of <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THere are Two things the world may, perhaps, wonder at: Firſt, My Confidence in divulging
+<pb facs="tcp:41839:3"/>my own Opinions after ſo many great Men, in ſo learned an Age. And Secondly, My Preſum<g ref="char:EOLhyphen"/>ing to preſent them to ſo Honourable a Per<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>In anſwer to the Firſt, I muſt needs ſay, That the Diſſatisfaction I have met withal in Books, (as to moſt of theſe things) made me re<g ref="char:EOLhyphen"/>ſolve to ſpeak my own Thoughts. And, as to the Second, Your Lord<g ref="char:EOLhyphen"/>ſhip's
+<pb facs="tcp:41839:3"/>great Judgment in theſe Studies, and Regard for them, late<g ref="char:EOLhyphen"/>ly Honouring the Fa<g ref="char:EOLhyphen"/>culty, with Encouraging ſo near and worthy a Relation of Your own in theſe Studies: Toge<g ref="char:EOLhyphen"/>ther with Your Lord<g ref="char:EOLhyphen"/>ſhip's condeſcending At<g ref="char:EOLhyphen"/>tention, and favourable Regard to my weak Diſcourſes, ſometimes on ſuch Subjects. Theſe things, my Lord, have emboldned me to pre<g ref="char:EOLhyphen"/>ſent
+<pb facs="tcp:41839:4"/>theſe Phyſiological Enquiries; which I of<g ref="char:EOLhyphen"/>fer with a very grate<g ref="char:EOLhyphen"/>ful Acknowledgment of Your Lordſhip's conde<g ref="char:EOLhyphen"/>ſcending Favours to,</p>
+            <closer>
+               <signed>
+                  <hi>My Lord, Your Lordſhip's moſt Obedient humble Servant,</hi> Stanford Wolferſtan.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:41839:4"/>
+            <head>THE PREFACE.</head>
+            <p>NOtwithſtanding the vo<g ref="char:EOLhyphen"/>luminous Authors that we have in Phyſick, both <hi>Greeks, Arabians,</hi> and latter Commentators, Phyſick till of late (ſince the days of <hi>Hip<g ref="char:EOLhyphen"/>pocrates</hi>) hath received but ſmall improvement; for if the Circulation of the Blood (on which both the Theory, and Pra<g ref="char:EOLhyphen"/>ctice
+<pb facs="tcp:41839:5"/>of Phyſick ought to be built) was diſcovered by <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> Aenigmatically by a Wheel; he was never till of late under<g ref="char:EOLhyphen"/>ſtood. If <hi>Andreas Caeſalpinus</hi> knew any thing of it, that know<g ref="char:EOLhyphen"/>ledge till of late was never im<g ref="char:EOLhyphen"/>proved; no Methods of Practice were built on it. The preſent ſtate of the Art of Phyſick is juſt like that of War, both have re<g ref="char:EOLhyphen"/>ceived conſiderable Improvements, the one to ſave, and the other to deſtroy Mankind. The Practi<g ref="char:EOLhyphen"/>cal part of Phyſick, without the Theory, is like downright fight<g ref="char:EOLhyphen"/>ing without the Wiſdom and Con<g ref="char:EOLhyphen"/>duct of General Officers; and we ſee more Towns taken, and Coun<g ref="char:EOLhyphen"/>tries over-run by the prudent Con<g ref="char:EOLhyphen"/>duct
+<pb facs="tcp:41839:5"/>of Commanders, than either by the uſe of Gun, or Pike. The Practice of Phyſick without the Theory, being juſt like a great Houſe, built without Foundati<g ref="char:EOLhyphen"/>on, which, however it may appear fair at firſt unto the Eye of the beholder, will quickly tumble in<g ref="char:EOLhyphen"/>to ruine, and diſorder. For, as I remember an eminent Phyſician hath lately told us,<note place="margin">
+                  <hi>Dr.</hi> Walt. Harris.</note> If the Art of Phyſick did conſiſt only in telling Medicines, or writing Receipts, the Apothecary will excel the moſt learned Phyſician, the pra<g ref="char:EOLhyphen"/>ting Shop-Boy his Maſter, a Nurſe or talkative Woman, full of her antiquated Book-Receipts, will carry the Prize, and Glory from them all: Whereas if the
+<pb facs="tcp:41839:6"/>true Theory of Diſeaſes were firſt well known, fewer Medicines would ſerve turn, and Practice would be much more ſucceſsful than generally it is. I have here only ſhewed, what gives the firſt diſturbance unto the Hu<g ref="char:EOLhyphen"/>mours of our Body; the next Enquiry will be, What Humors are the firſt diſturbed; the man<g ref="char:EOLhyphen"/>ner of their diſturbance; the Effects of, and Remedies to each particular diſorder: And if the Succeſs be anſwerable to the Hypotheſis, then it will appear, that the Theory of Phyſick is a moſt neceſſary part of that Study.</p>
+            <p>I muſt confeſs I have laid a<g ref="char:EOLhyphen"/>ſide my Books, in theſe Phyſio<g ref="char:EOLhyphen"/>logical
+<pb facs="tcp:41839:6"/>Enquiries, to ſpeak my own Thoughts; ſo that if the Reader finds here any Opinions contrary to his own, or his be<g ref="char:EOLhyphen"/>loved Author, let him not too much blame me for it, there be<g ref="char:EOLhyphen"/>ing a <hi>Libertas Philoſophica,</hi> as well as a <hi>Licentia Poetica;</hi> which Liberty I hope I have no way abuſed.</p>
+            <p>If he reap any Benefit, or Sa<g ref="char:EOLhyphen"/>tisfaction from it, he is partly obliged to that great and gene<g ref="char:EOLhyphen"/>ral Want or Defect, that firſt occaſioned it; for which you may take the word of our learned Profeſſor, Dr. <hi>Brady,</hi> in his E<g ref="char:EOLhyphen"/>piſtle to Dr. <hi>Sydenham: Ne<g ref="char:EOLhyphen"/>mo uſpiam Medicorum, ad<g ref="char:EOLhyphen"/>huc vim aeris &amp; influenti<g ref="char:EOLhyphen"/>am
+<pb facs="tcp:41839:7"/>in humana corpora at<g ref="char:EOLhyphen"/>tente perpendit, nec in vita noſtra perennanda quas a<g ref="char:EOLhyphen"/>git partes eorum quiſpiam conſideravit ſatis,</hi> &amp;c.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41839:7"/>
+            <head>An Enquiry into the Cauſes of Diſeaſes in general, &amp;c.</head>
+            <div n="1" type="chapter">
+               <head>CHAPTER I.</head>
+               <p>FOrmer Phyſicians were wont diligently to enquire, what ſolid Parts in their ſick Patients were ill-affected, and to look for the Cauſe of a Diſeaſe, either into the ſolid Parts they found ſo ill-diſpoſed; or the four <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>humidi</hi>
+                  <pb n="2" facs="tcp:41839:8"/>
+                  <hi>formas, vel ſpecies,</hi> as <hi>Hippo<g ref="char:EOLhyphen"/>crates</hi> calls them: <hi>Hae vero ſunt,</hi> as it follows, <hi>Pituita, San<g ref="char:EOLhyphen"/>guis, Bilis, &amp; Aqua:</hi> Whereas indeed there is but one of theſe, <hi>humor Corporis,</hi> in a true Senſe, which is the Blood it ſelf; the other three being only the Recrements of that Blood.</p>
+               <p>No wonder then that the Antients were miſtaken in the true Cauſes, and right Names of Diſeaſes, ſince they did not well enquire into the Nature of the Blood; and were indeed very ignorant of many Humors in the Body.</p>
+               <pb n="3" facs="tcp:41839:8"/>
+               <p>But our Modern Phyſici<g ref="char:EOLhyphen"/>ans finding this Error, (eſpe<g ref="char:EOLhyphen"/>cially ſince the Days of Dr. <hi>Harvey</hi>) have both Chimically anatomized the Blood, and other Humors of our Body, and diligently endeavoured to obſerve their Nature, Variations, Aliena<g ref="char:EOLhyphen"/>tions, and Effects; they more juſtly ſeem to find the im<g ref="char:EOLhyphen"/>mediate Cauſe of many Di<g ref="char:EOLhyphen"/>ſtempers in the Humors; who in their wandring Mo<g ref="char:EOLhyphen"/>tions about the Body, do diſaffect, and diſturb the ſo<g ref="char:EOLhyphen"/>lid Parts, which elſe be<g ref="char:EOLhyphen"/>fore were very ſound, and quiet.</p>
+               <pb n="4" facs="tcp:41839:9"/>
+               <p>From hence, in the Wri<g ref="char:EOLhyphen"/>tings of the Moderns, we find new Diſeaſes, new Cauſes, and new Names, ac<g ref="char:EOLhyphen"/>cording to the various ill Diſpoſition, Alienation, (or ſuppoſed ill Fermentation) of thoſe Humors.</p>
+               <p>But what gives Diſturbance firſt unto thoſe Humors, is now become the grand Que<g ref="char:EOLhyphen"/>ſtion amongſt learned Men.</p>
+               <p>Some believe the Cauſe to be in the Humors them<g ref="char:EOLhyphen"/>ſelves; and as the Ancient Phyſicians very often placed the Cauſe of a Diſeaſe in the ſolid Parts, ſo now we have the <hi>Morbi Salivae, Morbi Chyli, Succi Pancreatici, Lymphae,</hi> &amp;c.</p>
+               <pb n="5" facs="tcp:41839:9"/>
+               <p>And yet the ſeveral Hu<g ref="char:EOLhyphen"/>mors are ſo fitted for each others Service, and the great Ends they are deſigned for; they ſo regularly perform their Offices, and are ſo well prepared for one another, that we may rather wonder we live not the Age of the Patriarchs, than that we are ſo often diſturbed by any Inteſtine War amongſt them; for if the Mouth receive no<g ref="char:EOLhyphen"/>thing but what is fit as to the nature and quality of the Aliment; if it exceed not in quantity, if it ſtay there its juſt time, Maſtication is per<g ref="char:EOLhyphen"/>formed regularly, the <hi>Saliva</hi> will mix with it, and the
+<pb n="6" facs="tcp:41839:10"/>Stomach will perform its of<g ref="char:EOLhyphen"/>fice, in the Maceration, Di<g ref="char:EOLhyphen"/>geſtion, and Expulſion of it; the Pancreatick Juice, Lym<g ref="char:EOLhyphen"/>pha, <hi>&amp;c.</hi> are fitted for their ſeveral duties, of Separation, Attenuation, and Dilution of the Chyle, without any pre<g ref="char:EOLhyphen"/>ternatural Commotion, to diſorder or diſturb one ano<g ref="char:EOLhyphen"/>ther: Nor does the Blood quarrel with the well prepa<g ref="char:EOLhyphen"/>red Chyle, but amicably re<g ref="char:EOLhyphen"/>ceives it, from the <hi>Ductus Thoracicus</hi> into the <hi>Subclavian</hi> Vein, and as amicably paſſes with it into the right Ven<g ref="char:EOLhyphen"/>tricle of the Heart; where, though in the Diaſtole they are more mixt together, yet
+<pb n="7" facs="tcp:41839:10"/>they ſtay not to make that buſtle ſome have thought; but by the Syſtole, or Con<g ref="char:EOLhyphen"/>traction of the Heart, are ſoon driven out again, the Chyle accompanying the Blood to the greateſt amongſt all the <hi>Viſcera</hi> for Sanguification; I mean the Lungs, where they both receive a florid Red, and by the admiſſion of new Particles, are more perfectly aſſimulated, or uni<g ref="char:EOLhyphen"/>ted with each other.</p>
+               <p>So that even in Fevers, which ſeem to give the grea<g ref="char:EOLhyphen"/>teſt diſturbance to the Hu<g ref="char:EOLhyphen"/>mors of our Body, the di<g ref="char:EOLhyphen"/>ſturbance does not firſt ariſe from a quarrel raiſed amongſt
+<pb n="8" facs="tcp:41839:11"/>the Humors of our Body; for as long as no ſtrange ill Gueſt comes in to diſturb them, they all perform their natural offices in their won<g ref="char:EOLhyphen"/>ted order; but if they are hindred, or diſturbed in their Operations by an Enemy, they then fall into tumult and diſorder.</p>
+               <p>The Blood does not quar<g ref="char:EOLhyphen"/>rel with its ſelf, nor one part of it with another; for real<g ref="char:EOLhyphen"/>ly there is no Fermentation truly and properly ſo called in it, neither (according to the ſuppoſed Fermentation) does one part act upon or againſt another: For,</p>
+               <pb n="9" facs="tcp:41839:11"/>
+               <p>I conſider the Blood, not as it is Chymically ana<g ref="char:EOLhyphen"/>lyzed into their Principles, but as it is a viſcous Hu<g ref="char:EOLhyphen"/>mor, whoſe Particles are not fermented, but combined to<g ref="char:EOLhyphen"/>gether, by an Aereal Salt, receiving Heat from its own Motion and Circulation round the Body, whoſe Re<g ref="char:EOLhyphen"/>crements are ſeparated from it, by the various and admi<g ref="char:EOLhyphen"/>rable Contexture and Con<g ref="char:EOLhyphen"/>figuration of the Veſſels through which they paſs, whilſt the viſcid Humor, or thick part of the Blood, keeps cloſe and entire, and by the Anaſtomaſes, which, I ſup<g ref="char:EOLhyphen"/>poſe, (whether viſible or not)
+<pb n="10" facs="tcp:41839:12"/>of the Veins and Arteries, is brought back to the Heart, a languid Pulſe being conti<g ref="char:EOLhyphen"/>nued by the extremities of the Arteries to every Veſſel, which helps forward the Se<g ref="char:EOLhyphen"/>paration, Secretion, Percola<g ref="char:EOLhyphen"/>tion (or which you ſhall pleaſe to call it) of the thin<g ref="char:EOLhyphen"/>ner Humors.</p>
+               <p>I ſhall not ſtay here fur<g ref="char:EOLhyphen"/>ther to ſhew, either the inca<g ref="char:EOLhyphen"/>pacity of the Blood, or un<g ref="char:EOLhyphen"/>fitneſs of the Veſſels through which it paſſes, nor the dan<g ref="char:EOLhyphen"/>ger of ſuch Heterogeneous fermenting Liquors, eſpeci<g ref="char:EOLhyphen"/>ally near the extremity of ſuch ſmall, fine, and thin Veſ<g ref="char:EOLhyphen"/>ſels through which theſe Li<g ref="char:EOLhyphen"/>quors,
+<pb n="11" facs="tcp:41839:12"/>of ſuch different fer<g ref="char:EOLhyphen"/>menting Particles, muſt vio<g ref="char:EOLhyphen"/>lently paſs; neither ſhall I ſhew how the Viper, and ſe<g ref="char:EOLhyphen"/>veral other Animals that ſleep all Winter, whoſe Blood is not denied to Circulate all that while, neither void any Excrements all that while; nor is their Bladder of Gall fuller when they firſt come forth in the Spring, than when in Winter they firſt took their Beds; to demon<g ref="char:EOLhyphen"/>ſtrate that either the Blood does not always Ferment, or that the Gall is not thrown off by ſuch a Fermentation. So that as I cannot believe Diſeaſes, with the Ancients,
+<pb n="12" facs="tcp:41839:13"/>ſo often to ariſe from the ſo<g ref="char:EOLhyphen"/>lid Parts, nor the Blood to conſiſt of their four Humors; neither can I believe ſuch a buſtle kept in our Body, as hath of late been talkt of; I neither believe the ſolid Parts, nor Humors of our Body, to conſpire our ru<g ref="char:EOLhyphen"/>ine.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="13" facs="tcp:41839:13"/>
+               <head>CHAP. II.</head>
+               <p>SO that whatever Com<g ref="char:EOLhyphen"/>motion, Fermentation, Ebullition, or Diſturbance there is raiſed in the Blood, or Humors, muſt ariſe pre<g ref="char:EOLhyphen"/>ternaturally, and <hi>ab extra;</hi> for elſe neither Blood nor Humors will, of themſelves, raiſe ſuch violent Common<g ref="char:EOLhyphen"/>tions, or Diſturbance in Man's Body.</p>
+               <p>It is unqueſtionably true, That the Air, above all the other Non-naturals, is the
+<pb n="14" facs="tcp:41839:14"/>great Cauſe of our Epide<g ref="char:EOLhyphen"/>mick Fevers; the beſt way therefore to know the nature of ſuch Fevers (next to the knowledge of the Blood) will be to conſider the Na<g ref="char:EOLhyphen"/>ture of the Air we breath in.</p>
+               <p>I ſhall not enlarge here concerning the various Opi<g ref="char:EOLhyphen"/>nions of Philoſophers, con<g ref="char:EOLhyphen"/>cerning the Nature of Air; neither ſhall I deter<g ref="char:EOLhyphen"/>mine from whence it does ariſe, or of what compoſed, it being two larger diſcourſe for my preſent purpoſe; but I ſhall only ſuppoſe the Air to be a very thin and fluid Body, combined moſt ſtrict<g ref="char:EOLhyphen"/>ly
+<pb n="15" facs="tcp:41839:14"/>with a Nitrous Salt, and by the preſſure of other Par<g ref="char:EOLhyphen"/>ticles, together with its own natural fineneſs and ſubtil<g ref="char:EOLhyphen"/>ty, pervading every Patu<g ref="char:EOLhyphen"/>lous Pore in Earth and Wa<g ref="char:EOLhyphen"/>ter.</p>
+               <p>I ſay Patulous, becauſe I deny not, nay, I affirm there are many Pores, eſpecially in the Earth, which the Aere<g ref="char:EOLhyphen"/>al Particles are not fine e<g ref="char:EOLhyphen"/>nough to enter; and indeed both Earth and Water do re<g ref="char:EOLhyphen"/>ſiſt its penetration, but not with equal force, for the Air cannot enter very far into the more ſtrictly united and combined Particles of Earth; but the groſſer parts of the
+<pb n="16" facs="tcp:41839:15"/>Aereal Salt, are neceſſi<g ref="char:EOLhyphen"/>tated to ſtick faſt; from whence, with eaſie trouble, we extract our common Ni<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Whereas the Particles of Water being more flexile, and not ſo cloſely combi<g ref="char:EOLhyphen"/>ned together, recede, and give way to its penetra<g ref="char:EOLhyphen"/>tion.</p>
+               <p>So that this Aereal Salt en<g ref="char:EOLhyphen"/>ters to the bottom of the deepeſt Waters; without which the very Eels (though bedded in the Mud) cannot live; and Carps have been known to live by Air only two or three days out of Water; both which Experi<g ref="char:EOLhyphen"/>ments
+<pb n="17" facs="tcp:41839:15"/>are beſt manifeſt in extreme cold and froſty times, when the Ice does pre<g ref="char:EOLhyphen"/>vent the ingreſs of Aereal Particles into the bottom of the Water, and the Cold does condenſe them for the others preſervation.</p>
+               <p>In great Froſts I have known, in Ponds quite frozen over, multitude of Fiſhes, for want of Air, ſometimes as it were ſmothered, ſometimes ſick, and faintly ſwimming towards ſmall vent-holes, where Air was let in to them, by breaking the Ice to keep them alive.</p>
+               <pb n="18" facs="tcp:41839:16"/>
+               <p>But to this I have heard ſome anſwer, That they have never broke their Pools at all, add yet their Fiſh have done well: and it may be ſo ſometimes; for in a great Froſt the Water is very apt to ſink from the Ice, and leave a hollow in the ſides for the Air to enter; and I have been certainly told of Eels that have crept out of the Deep, and their warmer Mud-beds, for want of Air, and have lain dead at the ſides, in the extreme cold Winter: Which, had they been ſo much offended with cold, as ſome have thought they are, they might eaſi<g ref="char:EOLhyphen"/>ly
+<pb n="19" facs="tcp:41839:16"/>have kept their former ſtations, and ſo have re<g ref="char:EOLhyphen"/>mained <hi>ab hac coeli inclemen<g ref="char:EOLhyphen"/>tia tuti.</hi>
+               </p>
+               <p>Or elſe perhaps ſuch Pools had Quick-ſprings running into them; unto the heads of which Springs the Eels will commonly ſwim up for Air, when the body of the Pool is quite froze over. Where, by the bye, let me alſo make this further Ob<g ref="char:EOLhyphen"/>ſervation, That the greater and more ſubtle Fiſh, tho' they ſwim near the bottom, yet they chuſe to be di<g ref="char:EOLhyphen"/>rectly under thoſe holes; by which it is apparent, that theſe Aereal Particles are nei<g ref="char:EOLhyphen"/>ther
+<pb n="20" facs="tcp:41839:17"/>reflected, nor refracted, but by the interpoſition of another body, which they cannot enter, being other<g ref="char:EOLhyphen"/>wiſe preſs'd directly down<g ref="char:EOLhyphen"/>ward. But to return.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="21" facs="tcp:41839:17"/>
+               <head>CHAP. III.</head>
+               <p>THe Air having this pe<g ref="char:EOLhyphen"/>netrating force upon Earth and Water, let us next enquire how it does enter human Bodies: And there are four ways by which it is commonly believed the Air may enter them. Ei<g ref="char:EOLhyphen"/>ther,</p>
+               <p>
+                  <hi>Firſt,</hi> By its Mixing its ſelf with what we eat, and ſo is carried to the Stomach: Or,</p>
+               <pb n="22" facs="tcp:41839:18"/>
+               <p>
+                  <hi>Secondly,</hi> It is received by Inſpiration into the Lungs, and ſo is carried to the Heart: Or.</p>
+               <p>
+                  <hi>Thirdly,</hi> By the Pores of the Body, and from thence to the Maſs of Blood: Or,</p>
+               <p>
+                  <hi>Laſtly,</hi> In Inſpiration to the Ventricles of the Brain.</p>
+               <p>The two firſt of which I think are only true.</p>
+               <p>As to the <hi>Firſt;</hi> I think it is undoubtedly true, That the Air does, or Aereal Parti<g ref="char:EOLhyphen"/>cles
+<pb n="23" facs="tcp:41839:18"/>do, mix themſelves with what we eat; for whatever we eat muſt have numerous Pores, or elſe we could ne<g ref="char:EOLhyphen"/>ver chew it with out Teeth, nor digeſt it in our Stomach, or ſeparate Chyle from it; and I believe the Air may ſometimes enter theſe Pores; however it does enter the Mouth, and is preſſed down the <hi>Oeſophagus,</hi> either by the Aliment, or force of the Aere<g ref="char:EOLhyphen"/>al Atoms naturally deſcend<g ref="char:EOLhyphen"/>ing downward.</p>
+               <p>
+                  <hi>Secondly,</hi> It is apparent, both by diſſection and infla<g ref="char:EOLhyphen"/>tion of the Lungs, that the Air does enter from the <hi>Lar<g ref="char:EOLhyphen"/>nix</hi>
+                  <pb n="24" facs="tcp:41839:19"/>and <hi>Bronchia</hi> into the Veſiculary Cells; and there, whether by Adheſion of Diſ<g ref="char:EOLhyphen"/>ſolution, does depoſite at leaſt ſome part of this Aere<g ref="char:EOLhyphen"/>al Salt; where, meeting with the occurring Humors, is di<g ref="char:EOLhyphen"/>rectly carried to the Heart, and by its pungent Particles, moleſting and irritating the ſtreight and oblique Fibres of the Heart, does ſtir them up into a Syſtole, or Con<g ref="char:EOLhyphen"/>traction; and ſo by ſtreight<g ref="char:EOLhyphen"/>ning its Ventricles, to drive forth the Blood contained in them into the Arteries: And this I take to be the true Ori<g ref="char:EOLhyphen"/>ginal of all Pulſation, and firſt Motion of the Heart,
+<pb n="25" facs="tcp:41839:19"/>and Circulation of the Blood throughout the Body.</p>
+               <p>For when I obſerve the Motion of the Hearts of ſe<g ref="char:EOLhyphen"/>veral Creatures, exempt from their Bodies, and expoſed to the open Air, I can never believe either the Influx of Animal Spirits, much leſs the Ebullition, Accenſion, or Di<g ref="char:EOLhyphen"/>latation of the Heart, to be the Cauſe of its Motion, but rather the Effect of theſe pun<g ref="char:EOLhyphen"/>gent Particles, pricking upon the Fibrous <hi>Parenchyma</hi> of the Heart in their natural de<g ref="char:EOLhyphen"/>ſcending Motion.</p>
+               <p>As to the other two ways of receiving Air, <hi>viz.</hi> by the Pores of the Body; when I
+<pb n="26" facs="tcp:41839:20"/>conſider the Nature of theſe Atoms preſſing directly down<g ref="char:EOLhyphen"/>ward, when I conſider the great Quantity of <hi>Effluvia</hi> that are continually tranſpi<g ref="char:EOLhyphen"/>red by the Cuticulary Pores; when I conſider the Nature of thoſe Pores, and their acti<g ref="char:EOLhyphen"/>on to be continued ſuitable to the utmoſt extremity of the Arteries, from whence they originally are derived: I cannot ſee how the Air can enter without either <hi>pe<g ref="char:EOLhyphen"/>netratione Corporum,</hi> or an in<g ref="char:EOLhyphen"/>verſion of Natures conſtant Courſe, <hi>à centro ad circumfe<g ref="char:EOLhyphen"/>rentiam Corporis.</hi>
+               </p>
+               <pb n="27" facs="tcp:41839:20"/>
+               <p>The Arguments that are brought to prove the Poroſi<g ref="char:EOLhyphen"/>ty of Animals, by the taking in of <hi>Effluvia</hi> from without, by the application of Oils and Plaſters, (if rightly conſidered) make nothing to this purpoſe, to prove the entrance of this Aereal Salt by the Cuticulary Pores; for ſetting aſide a particular en<g ref="char:EOLhyphen"/>quiry into the Nature of thoſe Plaſters, their ſubtile, active, igneous, violent cool<g ref="char:EOLhyphen"/>ing, drying, irritating, ſtu<g ref="char:EOLhyphen"/>pifying, obſtructing, and pre<g ref="char:EOLhyphen"/>ternaturally diſpoſing Parti<g ref="char:EOLhyphen"/>cles, the Cuticulary Pores are not placed for the due reception of this Salt; nor
+<pb n="28" facs="tcp:41839:21"/>have the points of this Salt a force upon them, ſince they naturally deſcend per<g ref="char:EOLhyphen"/>pendicularly downward. Nei<g ref="char:EOLhyphen"/>ther when I obſerve the dif<g ref="char:EOLhyphen"/>ference between the Florid, Aereal, Coloured Blood re<g ref="char:EOLhyphen"/>turning from the Lungs, and the Atropurpureal Blood con<g ref="char:EOLhyphen"/>tained in the Veins, can I believe this Aereal Salt does enter by the Pores; or is mixt with the Venal Blood, when I ſee the Venal Blood both changed in colour and conſiſtence from what I ei<g ref="char:EOLhyphen"/>ther find in the Lungs or Arteries.</p>
+               <pb n="29" facs="tcp:41839:21"/>
+               <p>And, as to the laſt of theſe ways, when the Au<g ref="char:EOLhyphen"/>thors acquaint us how the Particles of Air are parted aſſunder in Inſpiration, part of them aſcending by the Mammillary Proceſſes <hi>ad cerebri Vaſa, &amp; Ventricu<g ref="char:EOLhyphen"/>los,</hi> and part deſcending to the Pulmonary Veſſels; when they can, I ſay, explicate with any great probabili<g ref="char:EOLhyphen"/>ty, how this is done, for what end, or uſe, the Air thus impregnated with this Salt ſhould come thither, it will deſerve further Conſi<g ref="char:EOLhyphen"/>deration. For,</p>
+               <pb n="30" facs="tcp:41839:22"/>
+               <p>Although the Mammilla<g ref="char:EOLhyphen"/>ry Proceſſes may be affected by the Points of this Salt, and according to the vari<g ref="char:EOLhyphen"/>ous and different Modificati<g ref="char:EOLhyphen"/>on of them, ſo various and different ſmells may be con<g ref="char:EOLhyphen"/>veyed unto the Brain: Nay, although the Particles of this Salt are very different, as to their ſhape and bigneſs, ſize and figure, yet do I not ſee how, nor for what end or uſe, by theſe nervous Pro<g ref="char:EOLhyphen"/>ceſſes, they ſhould ever be conveyed; neither can I ſee how theſe Nerves, or even the Brain it ſelf, ſhould eſcape a ſtrong Vellicati<g ref="char:EOLhyphen"/>on by them, which, being
+<pb n="31" facs="tcp:41839:22"/>communicated by the Nerves, might cauſe a Convulſive Motion in every Member in the Body.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="32" facs="tcp:41839:23"/>
+               <head>CHAP. IV.</head>
+               <p>NOw as I have owned but only two ways by which this Aereal Salt can be received into human Bo<g ref="char:EOLhyphen"/>dies; ſo do I very much queſtion, whether any thing elſe is left, in a healthy Air, to joyn either with Chyle or Blood, but this Aereal mo<g ref="char:EOLhyphen"/>dified Salt only; which of its ſelf is able to produce theſe great and following Effects:</p>
+               <pb n="33" facs="tcp:41839:23"/>
+               <p>
+                  <hi>Firſt,</hi> This Salt as it is va<g ref="char:EOLhyphen"/>riouſly mixt or modified by the Aliment we take into our Mouths, ſo different Taſtes appear unto us, and either deſcending or preſt down by other Particles, cauſes that diſturbing Velli<g ref="char:EOLhyphen"/>cation on the inner Mem<g ref="char:EOLhyphen"/>brane of the Nerves, that ſeem as it were placed there on pur<g ref="char:EOLhyphen"/>poſe to communicate that Vellication to the Brain, do occaſion that Deſire in us which we call Hunger; and from hence the taking the
+<pb n="34" facs="tcp:41839:24"/>freſh Air does make us hun<g ref="char:EOLhyphen"/>gry, becauſe we then receive this Aereal Salt both into our Lungs and Stomach.</p>
+               <p>But 'tis not the Fibres of the upper Orifice alone, but deſcending to the bottom of the Stomach with the Ali<g ref="char:EOLhyphen"/>ment, or what we eat, it has the ſame Operation on the other Fibres, and moves them to eject out at the <hi>Pylorus,</hi> and irritating all along on the Fibres of the Inteſtines, is a great cauſe of, and a conſi<g ref="char:EOLhyphen"/>derable advantage to their Periſtaltick Motion.</p>
+               <p>But though this Salt is ſo highly uſeful to the Motion of the Stomach, yet the Sto<g ref="char:EOLhyphen"/>machical
+<pb n="35" facs="tcp:41839:24"/>Operations are not performed by it alone; for I have obſerved, near the <hi>Rugae</hi> of great Animals, cer<g ref="char:EOLhyphen"/>tain <hi>Papillae,</hi> and a conſtant Juyce lodged in them; which I believed to be an acid <hi>Lympha,</hi> brought thither by inviſible Lymphatick Veſ<g ref="char:EOLhyphen"/>ſels; which, we have great reaſon to believe, do moi<g ref="char:EOLhyphen"/>ſten the Fibrous Tunicles of the Ventricles, although they are not perceptible to our ſight.</p>
+               <p>I know I might have tra<g ref="char:EOLhyphen"/>ced the generation of Ani<g ref="char:EOLhyphen"/>mals, and have ſhewn not only how the <hi>prima ſtamina
+<pb n="36" facs="tcp:41839:25"/>vitae,</hi> the Motion of the <hi>pun<g ref="char:EOLhyphen"/>ctum ſaliens;</hi> nay, even the birth it ſelf, is owing to this Salt.</p>
+               <p>As likewiſe I might ſhew the Effects of different occur<g ref="char:EOLhyphen"/>ring Salts that meet toge<g ref="char:EOLhyphen"/>ther in the <hi>Duodenum:</hi> But, deſigning brevity, I muſt ha<g ref="char:EOLhyphen"/>ſten next to ſhew what great Effects this Nitrous Salt doth commonly produce upon our Blood: And, <hi>Firſt,</hi> as to its Colour, it does change the Blood from an Atropurpu<g ref="char:EOLhyphen"/>real Venal Colour, into a Coccineous Florid Red, which is performed even by com<g ref="char:EOLhyphen"/>mon Salt mixt with Blood.</p>
+               <pb n="37" facs="tcp:41839:25"/>
+               <p>
+                  <hi>Secondly,</hi> to Combine, which is the proper Nature of all Salt mixt with Blood, as doth appear even from the vulgar, and commonly known, Methods of Lutati<g ref="char:EOLhyphen"/>on, Cementation, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> To hinder the Coagulation of the Blood.</p>
+               <p>
+                  <hi>Fourthly,</hi> By its lancinating and irritating Particles (ſup<g ref="char:EOLhyphen"/>poſed by ſome of a Comi<g ref="char:EOLhyphen"/>cal Figure) to moleſt and vellicate the Fibres of the Heart, and give occaſion to its Motion; from which Mo<g ref="char:EOLhyphen"/>tion,
+<pb n="38" facs="tcp:41839:26"/>round the Body, does depend, its Heat, and all things elſe will follow in their order.</p>
+               <p>The firſt Effect of this Salt may yet more particu<g ref="char:EOLhyphen"/>larly be obſerved in the Blood returning from the Pulmonary Veſſels, and from the Heart too, even to the Capillaries of the Veins and Arteries: Whereas the Venal Blood is changed both in Colour and Conſiſtence, by the returning ſub-acid <hi>Lym<g ref="char:EOLhyphen"/>pha,</hi> as Acids are uſed to operate upon it; eſpecially by Coagulation, and chang<g ref="char:EOLhyphen"/>ing
+<pb n="39" facs="tcp:41839:26"/>its Florid Red, into a Venal Atropurpureal Co<g ref="char:EOLhyphen"/>lour.</p>
+               <p>The Second Effect is alſo manifeſt by the expoſing Ve<g ref="char:EOLhyphen"/>nal Blood, newly emitted from the Orifice, unto the open Air; for this Aereal Salt it is, that does not on<g ref="char:EOLhyphen"/>ly change its Colour, but as far as it does penetrate its Pores, it firmly combines its Particles together.</p>
+               <p>Thirdly, To hinder the Coagulation of the Blood; which is another very com<g ref="char:EOLhyphen"/>mon <hi>Experiment</hi> for theſe Salts,
+<pb n="40" facs="tcp:41839:27"/>whether taken inwardly, or elſe outwardly mixt with Blood; which it does Effect by intimately mixing it ſelf with the Blood, and ſo pre<g ref="char:EOLhyphen"/>venting a Diſlocation of the Sanguineous Particles.</p>
+               <p>Fourthly, 'Tis this Salt that by its irritating Particles, is the great promoter of Se<g ref="char:EOLhyphen"/>cretion in our Bodies, and yet maintains the <hi>Vinculum</hi> and due Craſis of the Blood entire; for as it gives a Salt<g ref="char:EOLhyphen"/>neſs to moſt, ſo does it faci<g ref="char:EOLhyphen"/>litate the Separation, Secre<g ref="char:EOLhyphen"/>tion, and Expulſion of al<g ref="char:EOLhyphen"/>moſt every Humor.</p>
+               <pb n="41" facs="tcp:41839:27"/>
+               <p>And now we may ſee what gives diſturbance unto the Humors of our Body; for from the univerſal neceſ<g ref="char:EOLhyphen"/>ſity of this Salt, we may ea<g ref="char:EOLhyphen"/>ſily diſcern what will enſue upon a total or partial De<g ref="char:EOLhyphen"/>privation of it: Or, Second<g ref="char:EOLhyphen"/>ly, what will follow upon a Depravation, or Contami<g ref="char:EOLhyphen"/>nation, eſpecially in our Blood and Humors.</p>
+               <p>Now as to the firſt of theſe, upon a total Depriva<g ref="char:EOLhyphen"/>tion of this Aereal Salt, this <hi>Vinculum Miſtorum, &amp; Natu<g ref="char:EOLhyphen"/>rae,</hi> what can enſue, but as total a diſſolution of Na<g ref="char:EOLhyphen"/>ture, a returning of all things
+<pb n="42" facs="tcp:41839:28"/>to their Primitive Chaos and Diſorder, an univerſal Morta<g ref="char:EOLhyphen"/>lity, not only to Mankind, but to all Creatures living? Beaſts and Serpents, Fiſh and Fowl, muſt all tumble together in one common ru<g ref="char:EOLhyphen"/>ine. So that with a little variation I may uſe <hi>Lucan</hi>'s Expreſſions for it:</p>
+               <q>
+                  <l>
+                     <hi>—Sic quum compage ſoluta,</hi>
+                  </l>
+                  <l>
+                     <hi>Secula tot mundi ſuprema coegerit hora,</hi>
+                  </l>
+                  <l>
+                     <hi>Antiquum repetens iterum Chaos, omnia diſcors</hi>
+                  </l>
+                  <l>
+                     <hi>Machina divulſi turbabit faedera Mundi.</hi>
+                  </l>
+                  <bibl>Lucan.de bello Civ.l. 1.</bibl>
+               </q>
+               <pb n="43" facs="tcp:41839:28"/>
+               <p>Of partial Defects, there are ſome more and ſome leſs deſtructive unto human Nature: And ſo Secondly, may Depravation, or Conta<g ref="char:EOLhyphen"/>mination be conſidered, as the Air is more or leſs de<g ref="char:EOLhyphen"/>praved; but as a total Defect of this Salt was never yet known, ſo the direful Effects of a total Depravation were yet never felt, ſince a total Depravation; and a total Deprivation would prove a<g ref="char:EOLhyphen"/>like equally pernicious: So that the Plague its ſelf, and all other Peſtilential Fevers, muſt ariſe from either a partial Defect, or partial
+<pb n="44" facs="tcp:41839:29"/>Contamination, or Deprava<g ref="char:EOLhyphen"/>tion of this Salt; from a total they can never come, becauſe that ſuch a ſtate there was never yet known, in the which Mankind were all deſtroyed toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>For neither the Suffocati<g ref="char:EOLhyphen"/>ons of Lightning, nor hot Coals, make ſuch a total Defect; nor the Damps in the <hi>Cryptae,</hi> and Subterranean Vaults, or Caverns, are ſuch a total Depravation of this Salt; yet, approaching only ſomething near that Nature, generally bring with them very ſudden ſwift diſtructi<g ref="char:EOLhyphen"/>on;
+<pb n="45" facs="tcp:41839:29"/>and Death is either more ſwift, or ſlow, as this Aereal Salt is more or leſs deficient or depraved.</p>
+               <p>As for thoſe partial De<g ref="char:EOLhyphen"/>fects of this Salt, that are occaſioned by the default of the Organs of our Bodies, ſome way or other hindred in their Natural Motions or Operations, though they oc<g ref="char:EOLhyphen"/>caſion a Defect, yet general<g ref="char:EOLhyphen"/>ly very little, compared with the Defect is made for want of this Salt in the Air we breath in, which Nature can<g ref="char:EOLhyphen"/>not otherwiſe repair. And yet even in theſe partial De<g ref="char:EOLhyphen"/>fects, when only one part
+<pb n="46" facs="tcp:41839:30"/>of one Lobe of the Lungs is ulcerated, yet in how ſhort a time is the Motion, Colour, and Conſiſtency of the Blood changed from what it was?</p>
+               <p>There needs not therefore any thing, but a Defect of this Salt, to make thoſe Mu<g ref="char:EOLhyphen"/>tations in the Humors of our Body, from whence theſe Diſturbances which we call Diſeaſes do ariſe; as I might more particularly ſhew, if I did not deſign brevity in this diſcourſe: Nay, even the Air its ſelf does more or leſs ſuffer, according to the greater or leſs Defect of this
+<pb n="47" facs="tcp:41839:30"/>Salt; and I queſtion not, but even that venenate <hi>Miaſme</hi> (as <hi>Hippocrates</hi> firſt termed it) owes its Original to this want; and that his careful Deſcription of a <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, does not ſo much argue a Corruption, or <hi>Pu<g ref="char:EOLhyphen"/>tredo,</hi> as his Commentators call it, as this Defect which I plead for; from the want of which, the Humors of our Body will not only of themſelves corrupt, but if the want be great, there will infallibly enſue, ſome fatal or Peſtilential Conſti<g ref="char:EOLhyphen"/>tution.</p>
+               <pb n="48" facs="tcp:41839:31"/>
+               <p>Which Peſtilential Conſti<g ref="char:EOLhyphen"/>tution, giving the greateſt Diſturbance unto our Blood and Humors, muſt conſe<g ref="char:EOLhyphen"/>quently be the moſt Deſtru<g ref="char:EOLhyphen"/>ctive to Mankind: For when the Air is moſt deficient of this Salt, then other Hetero<g ref="char:EOLhyphen"/>geneous Particles croud moſt into it, and do moſt cor<g ref="char:EOLhyphen"/>rupt; whilſt, in the mean time, for want of this Com<g ref="char:EOLhyphen"/>bining Salt, the Particles of our Blood are diſlocated, its <hi>Craſis</hi> made Lax, and pre<g ref="char:EOLhyphen"/>pared very ready to Re<g ref="char:EOLhyphen"/>ceive and Combine with this Aereal Depravation.</p>
+               <pb n="49" facs="tcp:41839:31"/>
+               <q>
+                  <l>Haec ratio quondam Morborum.</l>
+                  <bibl>
+                     <hi>Lucretius lib. vi.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <l>A Plague, thus rais'd, laid lear<g ref="char:EOLhyphen"/>ned <hi>Athens</hi> waſte;</l>
+                  <l>Through every Street, through all the Town it paſt;</l>
+                  <l>Blaſting both Man and Beaſt with poys'nous Wind;</l>
+                  <l>Death fled before, and Ruine ſtalk'd behind.</l>
+                  <bibl>Mr. <hi>Creech</hi>'s <hi>Lucretius.</hi>
+                  </bibl>
+               </q>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="50" facs="tcp:41839:32"/>
+               <head>CHAP. V.</head>
+               <p>SInce I have aſſerted a Peſtilential Conſtituti<g ref="char:EOLhyphen"/>on to be nothing elſe but a Depravation of the Air, a<g ref="char:EOLhyphen"/>riſing from a great Defect of this Aereal Salt; I need not determine on either ſide, whether this Depravation (a<g ref="char:EOLhyphen"/>riſing from this Defect) does conſiſt in <hi>Acido,</hi> or <hi>Volatili Aeri.</hi> As for the Body, the Conſiſtency of the Blood being ſo almoſt totally al<g ref="char:EOLhyphen"/>tered,
+<pb n="51" facs="tcp:41839:32"/>Acidity, Coagulati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> will naturally enſue, as the Stagnation of the Bile will render it more A<g ref="char:EOLhyphen"/>crid.</p>
+               <p>Now there is nothing as I have (yet) obſerved, doth more exactly repreſent, or expreſs the Nature of the Plague unto us, whether we reſpect the dreadful Symp<g ref="char:EOLhyphen"/>toms, or the vulgar Method of Cure, than the firſt bite<g ref="char:EOLhyphen"/>ings of a ſtrong Viper, whoſe Venom does not conſiſt of a dull, heavy, ſluggiſh Poy<g ref="char:EOLhyphen"/>ſon, like unto thoſe Poyſons Authors commonly repre<g ref="char:EOLhyphen"/>ſent, and expreſs the Nature
+<pb n="46" facs="tcp:41839:33"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="47" facs="tcp:41839:33"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="48" facs="tcp:41839:34"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:41839:34"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:41839:35"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:41839:35"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="52" facs="tcp:41839:36"/>of the Plague by; but in a brisk, active, quick, pier<g ref="char:EOLhyphen"/>cing, ſubtile, aereal Poy<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>But when it meets with good Blood, whoſe Particles by this Salt are cloſely com<g ref="char:EOLhyphen"/>bined together, its Effects ap<g ref="char:EOLhyphen"/>pear moſt by Stagnating the Bile,<note place="margin">Vide <hi>Wil<g ref="char:EOLhyphen"/>lis</hi> de lite<g ref="char:EOLhyphen"/>ro.</note> (though perhaps not directly ſo as ſome great Men have imagined:) So that the Symptoms I muſt confeſs differ in both, as well as they do in ſeveral other Diſeaſes; which difference of Symptoms in Diſeaſes does often ariſe, not ſo much from the different Nature
+<pb n="53" facs="tcp:41839:36"/>of the Diſeaſe, as from the different Nature of the ſo<g ref="char:EOLhyphen"/>lid Parts or Humors of our Body, as to Strength, or Weakneſs, Combination, or Relaxation in ſeveral dif<g ref="char:EOLhyphen"/>ferent and diſtinct Conſti<g ref="char:EOLhyphen"/>tuitions.</p>
+               <p>It will not perhaps be thought ſo generous in me to engage againſt either of the two late diligent Enqui<g ref="char:EOLhyphen"/>rers into the Nature of this Animal; who, like two ex<g ref="char:EOLhyphen"/>piring Combatants, by mu<g ref="char:EOLhyphen"/>tual Wounds, have ruined one another, having given ſuch demonſtrative Experi<g ref="char:EOLhyphen"/>ments againſt each other,
+<pb n="54" facs="tcp:41839:37"/>that unleſs the Vipers of <hi>Ita<g ref="char:EOLhyphen"/>ly</hi> have their Poyſon in the Yellow Liquor, and thoſe of <hi>France</hi> theirs in the inraged Spirits, (which I can ne<g ref="char:EOLhyphen"/>ver believe) neither of their Opinions can possibly be true.</p>
+               <p>Letting therefore theſe two Gentlemen alone to their irreconcilable (thought friend<g ref="char:EOLhyphen"/>ly Debate) it will not per<g ref="char:EOLhyphen"/>haps be thought amiſs, if I give a ſhort Account of our common Adder, the true <hi>Engliſh</hi> Viper; who, although by ſome ſhe is thought not ſo dangerous as thoſe of hot<g ref="char:EOLhyphen"/>ter Countries, yet whoever
+<pb n="55" facs="tcp:41839:37"/>will but obſerve the dread<g ref="char:EOLhyphen"/>full Symptoms that did en<g ref="char:EOLhyphen"/>ſue upon the poor Man of <hi>Warwick,</hi> being bitten as Dr. <hi>Stubs</hi> mentions, whom I have alſo ſent for, and en<g ref="char:EOLhyphen"/>quired of, will perhaps be quite of another mind: As to the dangerous biting of our Adder, if preſent Pain, extraordinary Swellings, if Benumnedneſs, Bliſters, Black<g ref="char:EOLhyphen"/>neſs, Deadneſs, Gangreen, cold death Sweats, <hi>&amp;c.</hi> may be thought ſo.</p>
+               <p>He told me the Story, juſt as Dr. <hi>Stubs</hi> relates it, very certainly and confidently af<g ref="char:EOLhyphen"/>firming, That it was the
+<pb n="56" facs="tcp:41839:38"/>ſucking of the Venom (as he called it) from the bitten place, that made his Speech falter, and his Tongue ſwell; which the Doctor confeſſes, and therefore tells us how unſafe that Direction of <hi>Celſus, Veſſalius, Forre<g ref="char:EOLhyphen"/>ſtus,</hi> and others is, who ad<g ref="char:EOLhyphen"/>viſe that a Man ſhould ſuck the bitten place; and in <hi>A<g ref="char:EOLhyphen"/>matus Luſitanus</hi> you will find (ſaith he) a relation of one who died by ſucking of the place bitten by a Viper: The ſame is avowed by <hi>Mat<g ref="char:EOLhyphen"/>thiolus,</hi> as <hi>Paraeus</hi> recordeth the Story out of him, and inſtanceth further in a Pa<g ref="char:EOLhyphen"/>tient
+<pb n="57" facs="tcp:41839:38"/>of his own, whoſe Life was much endangered by ſucking upon the bite of an Adder. Nay, Dr. <hi>Stubs</hi> con<g ref="char:EOLhyphen"/>feſſeth, as in the laſt Page, that there is a Virulency in the Wound, as appears, ſaith he, by the evil Accidents up<g ref="char:EOLhyphen"/>on the ſucking; and yet not<g ref="char:EOLhyphen"/>withſtanding he jumps af<g ref="char:EOLhyphen"/>ter <hi>Charas,</hi> and tells us, That it ſeems to him indubita<g ref="char:EOLhyphen"/>ble, that the Venom of this Animal proceeds from its Indignation: Which Opini<g ref="char:EOLhyphen"/>on <hi>Poterius, Helmont,</hi> and <hi>Zwelfer</hi> propoſed before <hi>Cha<g ref="char:EOLhyphen"/>ras.</hi>
+               </p>
+               <pb n="58" facs="tcp:41839:39"/>
+               <p>I wiſh theſe Gentlemen had better explained their own Opinions, and more plainly declared what they mean by Enraged Spirits, In<g ref="char:EOLhyphen"/>dignation, Idea, and the like terms; and, but probably (at leaſt) have ſhown us how theſe, or any of them are convey'd into the Bo<g ref="char:EOLhyphen"/>dy, and ſo conducted in it, as to produce theſe many various and ſtrange Effects immaterially; for if they confeſs theſe Enraged Spi<g ref="char:EOLhyphen"/>rits have a Vehicle, they grant all, and ſufficient for me to affirm, that That Ve<g ref="char:EOLhyphen"/>hicle, whatever it is, is of
+<pb n="59" facs="tcp:41839:39"/>its ſelf able, proper, and fit to produce theſe ſtrange and dreadful Symptoms.</p>
+               <p>I am indeed ſo far of <hi>Signior Redi</hi>'s mind, as to be<g ref="char:EOLhyphen"/>lieve there is ſome Venom, or Virulent Juice, or Mat<g ref="char:EOLhyphen"/>ter, does attend the Teeth of an Adder when ſhe bites; as I have obſerved a little moiſture to attend the ſting of a Bee, which will cauſe ſtrange Swellings, though the Sting does not remain behind, the Sting has done its buſineſs, and made a paſ<g ref="char:EOLhyphen"/>ſage to put in that little Ve<g ref="char:EOLhyphen"/>nom, which I hope they will not call the Inraged
+<pb n="60" facs="tcp:41839:40"/>Spirits, Indignation, or the Idea of the Bee. Now, what that moiſture is? From whence it cometh? Which way it paſſes, in the Body of the Bee? What Sort of Bees only have it? What Taſte it has? What Effects both this, and the Adders clear moiſture have when mixt with Acids, or Alka<g ref="char:EOLhyphen"/>lies? might be material here more ſtrictly to ex<g ref="char:EOLhyphen"/>mine; eſpecially the Ef<g ref="char:EOLhyphen"/>fects they have on human Blood, Chyle, Serum, Lym<g ref="char:EOLhyphen"/>pha, <hi>&amp;c.</hi>
+               </p>
+               <p>But to return to our Ad<g ref="char:EOLhyphen"/>der, I will put the Mat<g ref="char:EOLhyphen"/>ter
+<pb n="61" facs="tcp:41839:40"/>to a fair iſſue, by a few certain Experiments:</p>
+               <p>
+                  <hi>Firſt,</hi> By giving the ſeve<g ref="char:EOLhyphen"/>ral and diſtinct Parts of Ad<g ref="char:EOLhyphen"/>ders to Dogs, Cats, Crows, <hi>&amp;c.</hi> I found that no parti<g ref="char:EOLhyphen"/>cular Part was hurtful to thoſe Creatures.</p>
+               <p>
+                  <hi>Secondly,</hi> By making an<g ref="char:EOLhyphen"/>gry Adders bite on the ends of well polliſhed Sticks, I found a thin (not yellow) but a clear tranſparent Wa<g ref="char:EOLhyphen"/>ter left behind, on the place where they had endeavoured to bite.</p>
+               <pb n="62" facs="tcp:41839:41"/>
+               <p>
+                  <hi>Thirdly,</hi> I found that the place bit (in a living Crea<g ref="char:EOLhyphen"/>ture) always Swelled, look'd Black, and the Blood ſeem<g ref="char:EOLhyphen"/>ed to Coagulate.</p>
+               <p>Now I confeſs here ſeem<g ref="char:EOLhyphen"/>ed a great difficulty; for if this thin, tranſparent Water is the Venom, from whence can it come? ſince there is nothing Poyſonous in the Adder when dead, and ta<g ref="char:EOLhyphen"/>ken inwardly by theſe Crea<g ref="char:EOLhyphen"/>tures; not the leaſt Sick<g ref="char:EOLhyphen"/>neſs, or Illneſs appearing in them, upon taking e<g ref="char:EOLhyphen"/>ven the moſt ſuſpected
+<pb n="63" facs="tcp:41839:41"/>part of this dangerous Ser<g ref="char:EOLhyphen"/>pent.</p>
+               <p>Beſides this, the Adder haſtily purſuing, catching, and (in a ſeeming Rage) biting hard upon the Neck of a large Field-Mouſe, no more Effect afterwards ap<g ref="char:EOLhyphen"/>peared upon the bitten place, than if her Neck had been pierced by four ſmall Teeth of any other Crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p>To enquine therefore from whence this Water came, I look'd within the Mouth of an Adder, but I ſaw no ſhew of any ſuch Water; then I took out her Tongue,
+<pb n="64" facs="tcp:41839:42"/>commonly (though falſly) termed her Sting, which I found divided into two Forks, each about half an Inch long apiece, both of a very black Colour, which continued ſo after the two Forks were united into the ſame Stem, or Trunk; which Tongue I found plac'd exactly under the <hi>Larinx,</hi> or entrance of the <hi>Aſpera Arteria;</hi> ſo that under this <hi>Larinx,</hi> when alive, ſhe could withdraw, and nimbly hide her forked Tongue, leaving a free and open paſſage from the <hi>Larinx</hi> to her Teeth and Jaws. Next I carefully ob<g ref="char:EOLhyphen"/>ſerved
+<pb n="65" facs="tcp:41839:42"/>both Jaws, which to me ſeemed double; the one Jaw having at leaſt eight or ten very ſmall Teeth; and the other not above two on each ſide, but very long, in compariſon to the other, and plac'd over a<g ref="char:EOLhyphen"/>gainſt a vacant place in the other Jaw; moſt of them (eſpecially the great ones) bending inward, much like the Talons of a Hawk, or Kite; and when I viewed them in a Microſcope, they ſeemed more like the fore<g ref="char:EOLhyphen"/>mentioned Talons, than the Teeth of other Creatures.</p>
+               <pb n="66" facs="tcp:41839:43"/>
+               <p>I look'd for the yellow Juice at the Roots of the Teeth, and in the hollow part of the Jaws, which I then found not, I only found there ſome florid Blood, mixt with a kind of Water, like its <hi>Serum,</hi> but of both a very ſmall quan<g ref="char:EOLhyphen"/>tity.</p>
+               <p>I ſearch'd the <hi>Ductus Sa<g ref="char:EOLhyphen"/>livares,</hi> and their <hi>Glandulae</hi> for this Water; all which appearing very white, and nothing yellowiſh at all in them, their whiteneſs I ſup<g ref="char:EOLhyphen"/>poſe they received from the pure whiteneſs of the <hi>Saliva</hi> contained in them: And
+<pb n="67" facs="tcp:41839:43"/>thus I was, as I thought, fru<g ref="char:EOLhyphen"/>ſtrate of finding the clear Liquor before-mentioned; for from the Nerves, or Lym<g ref="char:EOLhyphen"/>phatick Veſſels, although they were viſible enough, yet for many reaſons I thought it moſt improbable for a<g ref="char:EOLhyphen"/>ny of them to carry ſuch a Liquor forth unto the Teeth.</p>
+               <p>In the next biting of an Adder I obſerved two things: <hi>Firſt,</hi> That ſhe held her Chaps, in the very inſtant of biting, to the place ſhe bit upon, ſo exactly cloſe, that nothing either of Breath
+<pb n="68" facs="tcp:41839:44"/>or Water could paſs out that way, her Mouth and Lips ſeeming naturally fitted for that purpoſe.</p>
+               <p>
+                  <hi>Secondly,</hi> I diſcerned an ap<g ref="char:EOLhyphen"/>parent Motion of Expirati<g ref="char:EOLhyphen"/>on, at the very inſtant of biting; which being upon the Throat of a ſtrong Dog, of a thick Skin, I ſuppoſe the Teeth entred only the two Skins, and yet a Tumor preſently aroſe, to the big<g ref="char:EOLhyphen"/>neſs of a large Bladder; whereupon I cauſed that Ad<g ref="char:EOLhyphen"/>der and another to bite the ſame Dog in another place, always taking care at the
+<pb n="69" facs="tcp:41839:44"/>time of biting to hinder ex<g ref="char:EOLhyphen"/>piration ſome way or other, as well as I could; and I always found that either the biting had no Effect, or elſe the Adder had no mind to bite, though never ſo much inraged before; nay, though with great force I ſqueezed the Teeth into the place they were faſtned unto, that they might enter very deep, holding his Chaps very hard together between my Finger and Thumb, and preſſing both the over and lower Jaw together; yet no conſidera<g ref="char:EOLhyphen"/>ble Effect would follow, ex<g ref="char:EOLhyphen"/>cept the Adder had the li<g ref="char:EOLhyphen"/>berty
+<pb n="70" facs="tcp:41839:45"/>of his own way of biting, and cloſe ſhutting of his Lips to the bitten place.</p>
+               <p>Whereupon I began for to ſuſpect, that the very dangerous biting of our Ad<g ref="char:EOLhyphen"/>der, was truly cauſed from her Breath, and the cloſe ſhutting of her Mouth, and forcing either depraved Breath, or the ſteams of ſuch Breath into the Bo<g ref="char:EOLhyphen"/>dy, by thoſe little Orifices, which the very action of biting ſeemed more fully to declare.</p>
+               <p>In which Opinion I was the more confirmed, when
+<pb n="71" facs="tcp:41839:45"/>inſpecting the Wind-pipe, I found two great Recipients for Air; but the Lungs ſo conveniently ſituate in this Animal, as it were to de<g ref="char:EOLhyphen"/>prive the deſcending Air, of the greateſt part of this Aere<g ref="char:EOLhyphen"/>al Salt, which they natural<g ref="char:EOLhyphen"/>ly will do, beyond any thing that Art can perform: And therefore, ſaith a learned Au<g ref="char:EOLhyphen"/>thor, <hi>Aer è pulmonibus egeſtus, reſpirationi, vitaeque ſuſtentan<g ref="char:EOLhyphen"/>dae nequaquam idoneus eſt. Cir<g ref="char:EOLhyphen"/>ca reſpirationis ergo uſum af<g ref="char:EOLhyphen"/>firmare fas ſit, nonnihil, quic<g ref="char:EOLhyphen"/>quid ſit, Aereum ad vitam ſu<g ref="char:EOLhyphen"/>ſtinendam neceſſarium, in ſan<g ref="char:EOLhyphen"/>guinis maſſam tranſire. Hinc
+<pb n="72" facs="tcp:41839:46"/>Aer è pulmonibus egeſtus, è quo particulae iſtae Vitales exhauri<g ref="char:EOLhyphen"/>untur, non amplius ad reſpira<g ref="char:EOLhyphen"/>tionem idoneus eſt.</hi>
+               </p>
+               <p>And the Air being thus deprived, we may from what I have ſaid conclude, that it will naturally deprave; for as the Air in Mines, de<g ref="char:EOLhyphen"/>prived of this Nitrous Salt, and pent cloſe up, is the true Damp; ſo this Air in our Adder, deprived by the Lungs of its wholeſome parts, is the true Venom, or Verulency, as ſome phraſe it. For,</p>
+               <p>By the contraction of this long Bladder, and of their
+<pb n="73" facs="tcp:41839:46"/>neat <hi>Anulares,</hi> together with the extraordinary length of their Wind-pipe, and the cloſe ſhutting of their Mouths to the place bitten; the deprived Air is forc'd with their Teeth into the wound<g ref="char:EOLhyphen"/>ed or bitten place, and by this Motion through the Wind-pipe, either, from the Sides or <hi>Glandulae</hi> bring that clear Lympha along with it.</p>
+               <p>And thus having given a conſiderable inſtance, to ſhew the true Nature of a Peſti<g ref="char:EOLhyphen"/>lential Conſtitution, to con<g ref="char:EOLhyphen"/>ſiſt in an Aereal Deprivation, ariſing from a Defect of this Salt, 'tis as eaſie to con<g ref="char:EOLhyphen"/>ceive,
+<pb n="74" facs="tcp:41839:47"/>as in the Adder, how the ſame Deficiency is made in the Air we breath in, and what Effect that Deficiency will have upon the Humors of our Body.</p>
+               <p>I do not by all this deny the Exiſtence of ſeveral Sub<g ref="char:EOLhyphen"/>terraneous Steams, or Exha<g ref="char:EOLhyphen"/>lations, no queſtion but that they are ready to croud in, upon the leaſt defect of this Aereal Salt; and to render the Air more or leſs depra<g ref="char:EOLhyphen"/>ved, either as the Air is more or leſs defective to make room for them; or they in their own Nature are more or leſs pernicious; For as
+<pb n="75" facs="tcp:41839:47"/>in Subterraneous Damps, ac<g ref="char:EOLhyphen"/>cording to the different Na<g ref="char:EOLhyphen"/>ture or Quality of the Mines, ſo on the Surface of the Earth, (according to the va<g ref="char:EOLhyphen"/>riety of the Soils) on the de<g ref="char:EOLhyphen"/>fect of theſe Nitro-Aereal Particles, ſeveral Heterogene<g ref="char:EOLhyphen"/>ous Steams do get into their places, and very ill ſupply the defect of this moſt uſe<g ref="char:EOLhyphen"/>ful Salt.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="76" facs="tcp:41839:48"/>
+               <head>CHAP. VI.</head>
+               <p>BUt ſome may enquire, perhaps, from whence all this Nitro-Aereal Salt ſhould come, with which it is very manifeſt the Air we breath does ſo plentifully abound? In anſwer to which Enquiry, I do confeſes, I am inclined to believe, that this Nitro-Aereal Salt, which does ſo evidently abound in whol<g ref="char:EOLhyphen"/>ſom Air, is Chymically rai<g ref="char:EOLhyphen"/>ſed and ſublimed from the
+<pb n="77" facs="tcp:41839:48"/>Sea by the Sun's Heat; the more Volatile part carrying with it the groſſer part before<g ref="char:EOLhyphen"/>mentioned: And this I am ſtill more inclined to believe, when I conſider Salt-Petre it ſelf is only <hi>Sal Gemma,</hi> or Sea Salt, more abounding with Volatile Aereal Spi<g ref="char:EOLhyphen"/>rits; as, indeed, there is great reaſon for it why it ſhould.</p>
+               <p>Others may enquire what it is that does moſt cauſe a Defect, and conſequently an ill and a depraved Air? To which I anſwer, Not all thoſe Mutations of the Air obſer<g ref="char:EOLhyphen"/>ved by <hi>Hippocrates,</hi> and his
+<pb n="78" facs="tcp:41839:49"/>followers, nor all thoſe nota<g ref="char:EOLhyphen"/>ble Alterations of the Air mentioned more particular<g ref="char:EOLhyphen"/>ly by <hi>Silvius de le Boe,</hi> and his Scholars, have this Ope<g ref="char:EOLhyphen"/>ration or Effect upon the Air, as by diligent Obſerva<g ref="char:EOLhyphen"/>tion I can yet find, but on<g ref="char:EOLhyphen"/>ly ſome of them have; e<g ref="char:EOLhyphen"/>ſpecially an extreme, great, long, or laſting cold Froſt: An extreme, great, long and laſting Heat, Drineſs, or Moiſture, in the like manner; any one of theſe, accompa<g ref="char:EOLhyphen"/>nied with a long quietneſs or tranquility of the Air, may firſt cauſe a Defect, <hi>&amp;c.</hi> As for Example, in the ca<g ref="char:EOLhyphen"/>nicular
+<pb n="79" facs="tcp:41839:49"/>Days, when the over<g ref="char:EOLhyphen"/>violent Sun's heat hath too much rarified and ſublimed this Salt, that we can ſcarce<g ref="char:EOLhyphen"/>ly breath, then Defects, and Depravations, Death, and Ruine are very apt to fol<g ref="char:EOLhyphen"/>low one another, which have much ſooner an Effect on ſome Conſtitutions than o<g ref="char:EOLhyphen"/>thers, according to the va<g ref="char:EOLhyphen"/>rious Conſiſtency, or Diſlo<g ref="char:EOLhyphen"/>cation, Combination, or Re<g ref="char:EOLhyphen"/>laxation, Firmneſs, or Weak<g ref="char:EOLhyphen"/>neſs of the Particles of the Blood or Humors.</p>
+               <p>And this I take to be the true reaſon of our ſo fre<g ref="char:EOLhyphen"/>quent Autumnal Epidemick
+<pb n="80" facs="tcp:41839:50"/>Fevers, although they are per<g ref="char:EOLhyphen"/>haps not ſuddenly felt at that time, (in the Canicu<g ref="char:EOLhyphen"/>lar Days) but ſtay longer before they appear, they are ſo much the worſe for it, and argue that the former Deprivation has had a long<g ref="char:EOLhyphen"/>er time to deprave, accord<g ref="char:EOLhyphen"/>ing (as it falls out) ſome<g ref="char:EOLhyphen"/>times to deprave both the Air and Humors of our Bo<g ref="char:EOLhyphen"/>dy; and when the returning Cold, and more plentiful Aereal Salt, does begin to bind up the relaxed Parti<g ref="char:EOLhyphen"/>cles of Blood, the depraved Particles of ſo diſagreeing Nature, muſt needs cauſe a
+<pb n="81" facs="tcp:41839:50"/>very dangerous Conjuncti<g ref="char:EOLhyphen"/>on, ſince in their own Na<g ref="char:EOLhyphen"/>ture they are not only ve<g ref="char:EOLhyphen"/>ry different, but alſo very deſtructive to thoſe other Particles of our Blood and Humors, and yet they are got ſo crouded in, and aſ<g ref="char:EOLhyphen"/>ſociated amongſt them, that they are very difficult to re<g ref="char:EOLhyphen"/>move.</p>
+               <p>To ſumm up what I have ſaid in a few words, The Diſeaſes and Diſturbances that we find in our Bodies, do not ariſe from the ſolid Parts (except it be from ſome hurt or violence from without) nor from a quar<g ref="char:EOLhyphen"/>rel
+<pb n="82" facs="tcp:41839:51"/>or diſagreement amongſt the Humors or fluid Parts of our Body, but from a Defect of this Aereal Salt, which gives occaſion to He<g ref="char:EOLhyphen"/>terogeneous Steams to croud both into the Air and Hu<g ref="char:EOLhyphen"/>mors of our Body, and in time to contaminate and de<g ref="char:EOLhyphen"/>prave one another; from whence generally Diſeaſes, Epidemick and Peſtilential Fevers do ariſe, ſo deſtru<g ref="char:EOLhyphen"/>ctive and pernicious unto Mankind; ſo that the want of this Aereal Salt, is <hi>cauſa per accidens privativa;</hi> that is, <hi>per ſui abſentiam cauſa,</hi> as the old Philoſophers are wont
+<pb n="83" facs="tcp:41839:51"/>to ſpeak of all the Diſeaſes and Diſturbances in Man's Body.</p>
+               <p>Now although hitherto I may ſeem to diſcourage both Phyſicians and their Pa<g ref="char:EOLhyphen"/>tients, becauſe no Advice or Counſel can ſecure us al<g ref="char:EOLhyphen"/>ways againſt ill Air; I mean Air deficient or de<g ref="char:EOLhyphen"/>praved; yet we may by the wiſe and learned Phyſician's Advice, be taught how in part either to correct ill Air, or avoid it, or at leaſt how to fortifie the Humors of our Body againſt it; and when nevertheleſs ill Air is got into our Blood and Hu<g ref="char:EOLhyphen"/>mors,
+<pb n="84" facs="tcp:41839:52"/>and the Particles of our Blood are ill affected by it, then to aſſiſt Nature <hi>Materiae morbificae extermina<g ref="char:EOLhyphen"/>tione.</hi>
+               </p>
+               <p>So that here is nothing to diſcourage either, but ra<g ref="char:EOLhyphen"/>ther to remind them, that <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c.</p>
+               <p>Far be it from me to ſeem to leſſen the over<g ref="char:EOLhyphen"/>ruling Power of God Al<g ref="char:EOLhyphen"/>mighty by all this, I ra<g ref="char:EOLhyphen"/>ther ſhew how eaſie a thing it is for him by a Defect or Depravation, to deſtroy the World and all Mankind together in a moment, as
+<pb n="85" facs="tcp:41839:52"/>well as to puniſh one par<g ref="char:EOLhyphen"/>ticular Place or Country.</p>
+               <p>According to theſe Prin<g ref="char:EOLhyphen"/>ciples I have laid down, I cannot but recommend an open, free, and uninterrupted Air, a ſandy Soil, a ſituati<g ref="char:EOLhyphen"/>on upon the higheſt Ground, free from Hills, Woods, or any thing elſe that may in<g ref="char:EOLhyphen"/>tercept this Sweet and Bal<g ref="char:EOLhyphen"/>ſamick Air: And I wonder that our Anceſtors did ſo little regard theſe things, when even ſome of the Po<g ref="char:EOLhyphen"/>ets took notice of it. As <hi>Lu<g ref="char:EOLhyphen"/>can,</hi> deſcribing the Plague in <hi>Pompey</hi>'s Army, tells us, how free <hi>Caeſar</hi>'s (though near
+<pb n="86" facs="tcp:41839:53"/>him) was from it upon the higher Ground, while it ra<g ref="char:EOLhyphen"/>ged in <hi>Pompey</hi>'s Army below;
+<q>
+                     <l>At liber terrae ſpatioſis collibus hoſtis</l>
+                     <l>Aere non pigro, nec inertibus angitur undis;</l>
+                  </q> which may ſerve for a good Caution to all Encamping Generals.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:41839:53"/>
+            <head>A Catalogue of ſome BOOKS printed for, and are to be ſold by <hi>Tho. Baſſett,</hi> at the George <hi>in</hi> Fleet-ſtreet.</head>
+            <list>
+               <item>THe <hi>London</hi> Practice of Phy<g ref="char:EOLhyphen"/>ſick, or the whole Practi<g ref="char:EOLhyphen"/>cal Part of Phyſick; contained in the Works of Dr. <hi>Willis.</hi> 8<hi>o.</hi>
+               </item>
+               <item>
+                  <hi>Pharmacopoeia Londinenſis,</hi> or the New <hi>London</hi> Diſpenſatory, in Six Books, 8<hi>o.</hi> By <hi>William Sal<g ref="char:EOLhyphen"/>mon,</hi> Profeſſor of Phyſick and A<g ref="char:EOLhyphen"/>ſtrology. 8<hi>o.</hi>
+               </item>
+               <item>
+                  <hi>Doron Medicum:</hi> Or, a Sup<g ref="char:EOLhyphen"/>plement to the New <hi>London</hi> Di<g ref="char:EOLhyphen"/>ſpenſatory. In Three Books, 8<hi>o.</hi> By <hi>William Salmon,</hi> Profeſſor of Phyſick and Aſtrology.</item>
+               <pb facs="tcp:41839:54"/>
+               <item>Kitchin Phyſick; by way of Dia<g ref="char:EOLhyphen"/>logue: With Rules and Directi<g ref="char:EOLhyphen"/>ons how to prevent Sickneſs, and cure Diſeaſes, by Diet and ſuch things as are daily ſold in the Market. 12<hi>o.</hi>
+               </item>
+               <item>An Eſſay concerning Humane Underſtanding: In Four Books. By Mr. <hi>John Lock. Fol.</hi>
+               </item>
+               <item>Remarks in the Grand Tour of <hi>France</hi> and <hi>Italy,</hi> lately per<g ref="char:EOLhyphen"/>formed. By a Perſon of Qua<g ref="char:EOLhyphen"/>lity, <hi>&amp;c.</hi> 8<hi>o.</hi>
+               </item>
+               <item>An Eſſay of Tranſmigration, in defence of <hi>Pythagoras;</hi> or, a Diſcourſe of Natural Philoſo<g ref="char:EOLhyphen"/>phy, 8<hi>o.</hi> By <hi>Whitelocke Bul<g ref="char:EOLhyphen"/>ſtrode,</hi> Gent.</item>
+               <item>The Great <hi>French</hi> Dictionary, in two Parts: The Firſt, <hi>French</hi> and <hi>Engliſh:</hi> The Second, <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and <hi>French,</hi> according to the Ancient and Modern Orthogra<g ref="char:EOLhyphen"/>phy, <hi>&amp;c. ſol.</hi> By <hi>Guy Miege,</hi> Gent.</item>
+               <pb facs="tcp:41839:54"/>
+               <item>The Politicks of <hi>France.</hi> By Monſieur <hi>P. H.</hi> Marquis of <hi>C.</hi> &amp;c. 8<hi>o.</hi>
+               </item>
+               <item>Poems on ſeveral Occaſions: written by <hi>Charles Cotton,</hi>Eſq; 8<hi>o.</hi>
+               </item>
+               <item>An Exact Journal of the Siege of <hi>Coni</hi> in <hi>Piemont,</hi> &amp;c. 4<hi>o.</hi> Sent in a Manuſcript from <hi>Turin,</hi> to a Perſon of Quality in <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </item>
+               <item>Two Letters to a Friend; con<g ref="char:EOLhyphen"/>taining certain Conſiderations re<g ref="char:EOLhyphen"/>lating to the Pulpit. 4<hi>o.</hi>
+               </item>
+               <item>A Sermon preached before the Houſe of Commons at St. <hi>Marga<g ref="char:EOLhyphen"/>ret</hi>'s, <hi>Weſtminſter,</hi> on Thurſday the Fifth of <hi>November.</hi> By <hi>Wil<g ref="char:EOLhyphen"/>liam Fleetwood,</hi> Chaplain in Or<g ref="char:EOLhyphen"/>dinary to Their Majeſties. 4<hi>o.</hi>
+               </item>
+               <item>Diſcourſes upon Trade, prin<g ref="char:EOLhyphen"/>cipally directed to the Caſes of the Intereſt, Coinage, Clipping, and Increaſe of Money. 4<hi>o.</hi>
+               </item>
+               <pb facs="tcp:41839:55"/>
+               <item>The Monarchs of <hi>England</hi> from the Heptarchy, to Their preſent Majeſties King <hi>William</hi> and Queen <hi>Mary,</hi> taken from Medals and O<g ref="char:EOLhyphen"/>riginal Paintings; with a Com<g ref="char:EOLhyphen"/>pendious Hiſtory of their ſeve<g ref="char:EOLhyphen"/>ral Reigns. By <hi>Guy Miege,</hi> Gent.</item>
+               <item>The Effigies of the Right Ho<g ref="char:EOLhyphen"/>nourable <hi>Edward Ruſſell,</hi> Eſquire, one of Their Majeſties moſt Ho<g ref="char:EOLhyphen"/>nourable Privy Council, Admiral of Their Majeſties Fleet, and Treaſurer of Their Majeſties Na<g ref="char:EOLhyphen"/>vy, <hi>&amp;c.</hi> Taken from the Origi<g ref="char:EOLhyphen"/>nal, and curiouſly Engraven on Copper. Price 1 <hi>s.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:41839:55"/>
+         </div>
+      </back>
+   </text>
+</TEI>
